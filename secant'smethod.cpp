@@ -21,7 +21,7 @@ int main(){
         
     }while(es<error);
     cout<<"The root is"<<x<<endl;
-    cout<<"The functional value is"<<fxi<<endl;
+    cout<<"The functional value is"<<input(x)<<endl;
     cout<<"The iteration is"<<itr;
 
 }
